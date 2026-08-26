@@ -1,0 +1,44 @@
+name: Refresh free prediction snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 1,13,19 * * 5,6,0"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install RaceTwin
+        run: pip install -e .
+      - name: Restore the trained model
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: models/position_model.joblib
+          key: racetwin-position-v1-2018-2025
+      - name: Train once when the cache is empty
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: python scripts/train_model.py --start-season 2018 --end-season 2025
+      - name: Refresh standings and weather
+        run: python scripts/update_prediction.py --live --model models/position_model.joblib --simulations 10000
+      - name: Commit a changed snapshot
+        run: |
+          if git diff --quiet -- data/predictions.json data/predictions.js data/backtest_metrics.json; then
+            echo "No prediction change."
+            exit 0
+          fi
+          git config user.name "racetwin-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/predictions.json data/predictions.js
+          if [ -f data/backtest_metrics.json ]; then git add data/backtest_metrics.json; fi
+          git commit -m "data: refresh prediction snapshot"
+          git push

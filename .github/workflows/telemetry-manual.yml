@@ -1,0 +1,37 @@
+name: Extract completed weekend telemetry
+
+on:
+  workflow_dispatch:
+    inputs:
+      event:
+        description: "FastF1 event name, e.g. Dutch Grand Prix"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e ".[telemetry]"
+      - name: Extract completed sessions
+        env:
+          EVENT_NAME: ${{ inputs.event }}
+        run: |
+          if [ -n "$EVENT_NAME" ]; then
+            python scripts/extract_weekend_telemetry.py --event "$EVENT_NAME"
+          else
+            python scripts/extract_weekend_telemetry.py
+          fi
+      - name: Upload feature artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekend-features
+          path: data/weekend_features.json
