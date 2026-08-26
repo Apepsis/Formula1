@@ -1,0 +1,10 @@
+{
+  "name": "RaceTwin AI 2026",
+  "short_name": "RaceTwin",
+  "description": "Open probabilistic Formula racing forecast engine",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

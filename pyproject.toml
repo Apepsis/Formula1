@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "racetwin-ai"
+version = "1.0.0"
+description = "Open, uncertainty-aware Formula racing prediction engine"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Apepsis" }]
+dependencies = [
+  "joblib>=1.4,<2",
+  "numpy>=1.26,<3",
+  "pandas>=2.2,<3",
+  "requests>=2.32,<3",
+  "scikit-learn>=1.5,<2"
+]
+
+[project.optional-dependencies]
+telemetry = ["fastf1>=3.5,<4"]
+dev = ["pytest>=8,<9", "ruff>=0.9,<1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
