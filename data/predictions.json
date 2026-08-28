@@ -3,8 +3,8 @@
     "event": "Italian Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-08-28T12:46:39.413609+00:00",
-    "generated_label": "28 Aug 2026 · 12:46 UTC",
+    "generated_at": "2026-08-28T23:02:17.052209+00:00",
+    "generated_label": "28 Aug 2026 · 23:02 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@
     "safety_car_prior": 0.36
   },
   "weather": {
-    "air_temperature": 30.4,
-    "wind_speed": 12.6,
-    "rain_probability": 80.0,
+    "air_temperature": 22.0,
+    "wind_speed": 4.8,
+    "rain_probability": 55.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          41.625,
-          41.25,
-          42.375
+          43.55,
+          43.3,
+          44.5
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          33.75,
-          33.925,
-          33.85
+          34.8,
+          35.075,
+          34.675
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          11.075,
-          10.875,
-          10.25
+          10.5,
+          10.2,
+          9.675
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          4.6,
-          4.85,
-          4.475
+          3.775,
+          4.075,
+          3.825
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
-          4.325,
-          4.6,
-          4.65
+          3.825,
+          3.95,
+          4.05
         ]
       }
     ]
