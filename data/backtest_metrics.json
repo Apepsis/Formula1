@@ -1,0 +1,7 @@
+{
+  "races": 31,
+  "top_one_accuracy": 0.4194,
+  "top_three_coverage": 0.7742,
+  "mean_absolute_error": 3.6333,
+  "brier_score": 0.0365
+}
