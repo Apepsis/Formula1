@@ -3,8 +3,8 @@
     "event": "Italian Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-08-30T17:28:56.372427+00:00",
-    "generated_label": "30 Aug 2026 · 17:28 UTC",
+    "generated_at": "2026-08-30T21:54:43.689488+00:00",
+    "generated_label": "30 Aug 2026 · 21:54 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@
     "safety_car_prior": 0.36
   },
   "weather": {
-    "air_temperature": 29.0,
-    "wind_speed": 6.5,
+    "air_temperature": 22.1,
+    "wind_speed": 4.4,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
