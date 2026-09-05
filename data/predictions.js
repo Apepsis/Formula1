@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Italian Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-05T16:04:34.832548+00:00",
-    "generated_label": "05 Sep 2026 · 16:04 UTC",
+    "generated_at": "2026-09-05T21:14:27.467347+00:00",
+    "generated_label": "05 Sep 2026 · 21:14 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.36
   },
   "weather": {
-    "air_temperature": 33.4,
-    "wind_speed": 11.3,
+    "air_temperature": 27.5,
+    "wind_speed": 12.2,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
