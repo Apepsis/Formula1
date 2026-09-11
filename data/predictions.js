@@ -1,10 +1,10 @@
 window.RACETWIN_DATA = {
   "meta": {
-    "event": "Italian Grand Prix",
+    "event": "Spanish Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-06T21:20:45.835847+00:00",
-    "generated_label": "06 Sep 2026 · 21:20 UTC",
+    "generated_at": "2026-09-11T05:58:32.130790+00:00",
+    "generated_label": "11 Sep 2026 · 05:58 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,16 +12,16 @@ window.RACETWIN_DATA = {
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "Autodromo Nazionale Monza",
-    "country": "Italy",
-    "latitude": 45.6156,
-    "longitude": 9.2811,
-    "laps": 53,
-    "safety_car_prior": 0.36
+    "name": "MADRING",
+    "country": "Spain",
+    "latitude": 40.4679,
+    "longitude": -3.617,
+    "laps": 57,
+    "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 26.0,
-    "wind_speed": 4.3,
+    "air_temperature": 14.3,
+    "wind_speed": 5.2,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
@@ -36,17 +36,17 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          44.45,
-          44.475,
-          45.6
+          43.55,
+          43.775,
+          44.6
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          34.7,
-          34.75,
+          34.25,
+          34.5,
           34.625
         ]
       },
@@ -54,27 +54,27 @@ window.RACETWIN_DATA = {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          10.425,
-          10.525,
-          9.725
-        ]
-      },
-      {
-        "code": "PIA",
-        "color": "#ffb153",
-        "values": [
-          3.925,
-          3.825,
-          4.05
+          10.85,
+          10.7,
+          9.875
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          4.2,
-          3.725,
-          3.6
+          4.525,
+          4.075,
+          4.0
+        ]
+      },
+      {
+        "code": "PIA",
+        "color": "#ffb153",
+        "values": [
+          4.35,
+          4.025,
+          4.175
         ]
       }
     ]
