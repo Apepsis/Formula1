@@ -3,8 +3,8 @@
     "event": "Spanish Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-11T05:58:32.130790+00:00",
-    "generated_label": "11 Sep 2026 · 05:58 UTC",
+    "generated_at": "2026-09-11T17:01:40.328782+00:00",
+    "generated_label": "11 Sep 2026 · 17:01 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@
     "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 14.3,
-    "wind_speed": 5.2,
+    "air_temperature": 29.8,
+    "wind_speed": 4.1,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
