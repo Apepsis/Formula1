@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Spanish Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-12T05:46:40.706102+00:00",
-    "generated_label": "12 Sep 2026 · 05:46 UTC",
+    "generated_at": "2026-09-12T16:19:00.049189+00:00",
+    "generated_label": "12 Sep 2026 · 16:19 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 16.6,
-    "wind_speed": 3.9,
+    "air_temperature": 31.1,
+    "wind_speed": 4.0,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
