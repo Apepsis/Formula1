@@ -1,10 +1,10 @@
 {
   "meta": {
-    "event": "Spanish Grand Prix",
+    "event": "Azerbaijan Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-13T21:26:12.780749+00:00",
-    "generated_label": "13 Sep 2026 · 21:26 UTC",
+    "generated_at": "2026-09-18T05:54:42.894579+00:00",
+    "generated_label": "18 Sep 2026 · 05:54 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,16 +12,16 @@
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "MADRING",
-    "country": "Spain",
-    "latitude": 40.4679,
-    "longitude": -3.617,
-    "laps": 57,
-    "safety_car_prior": 0.42
+    "name": "Baku City Circuit",
+    "country": "Azerbaijan",
+    "latitude": 40.3725,
+    "longitude": 49.8533,
+    "laps": 51,
+    "safety_car_prior": 0.61
   },
   "weather": {
-    "air_temperature": 26.6,
-    "wind_speed": 3.3,
+    "air_temperature": 24.9,
+    "wind_speed": 31.6,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          61.225,
-          62.35,
-          61.8
+          56.325,
+          58.025,
+          57.475
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          21.05,
-          20.425,
-          20.55
+          21.875,
+          20.8,
+          21.05
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          8.325,
-          8.2,
-          8.15
+          9.575,
+          9.55,
+          9.275
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          3.925,
-          4.225,
-          4.225
+          4.875,
+          5.15,
+          5.325
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          3.3,
-          2.725,
-          2.825
+          4.075,
+          3.475,
+          3.4
         ]
       }
     ]
