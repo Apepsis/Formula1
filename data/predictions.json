@@ -3,8 +3,8 @@
     "event": "Azerbaijan Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-19T21:27:56.751620+00:00",
-    "generated_label": "19 Sep 2026 · 21:27 UTC",
+    "generated_at": "2026-09-20T06:15:19.015612+00:00",
+    "generated_label": "20 Sep 2026 · 06:15 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@
     "safety_car_prior": 0.61
   },
   "weather": {
-    "air_temperature": 22.4,
-    "wind_speed": 27.9,
-    "rain_probability": 5.0,
+    "air_temperature": 24.3,
+    "wind_speed": 37.2,
+    "rain_probability": 3.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          55.55,
-          57.325,
-          56.725
+          55.875,
+          57.725,
+          57.0
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          21.95,
+          21.875,
           20.875,
-          21.125
+          21.075
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          9.675,
-          9.65,
-          9.475
+          9.575,
+          9.575,
+          9.425
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          5.025,
-          5.425,
-          5.5
+          5.0,
+          5.25,
+          5.475
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          4.2,
-          3.625,
-          3.55
+          4.15,
+          3.525,
+          3.5
         ]
       }
     ]
