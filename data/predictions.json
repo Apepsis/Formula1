@@ -3,8 +3,8 @@
     "event": "Azerbaijan Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-20T06:15:19.015612+00:00",
-    "generated_label": "20 Sep 2026 · 06:15 UTC",
+    "generated_at": "2026-09-20T16:47:40.823428+00:00",
+    "generated_label": "20 Sep 2026 · 16:47 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@
     "safety_car_prior": 0.61
   },
   "weather": {
-    "air_temperature": 24.3,
-    "wind_speed": 37.2,
+    "air_temperature": 23.4,
+    "wind_speed": 23.9,
     "rain_probability": 3.0,
     "current_rain": 0.0
   },
