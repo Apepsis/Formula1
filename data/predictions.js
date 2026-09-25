@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Azerbaijan Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-25T06:09:55.347221+00:00",
-    "generated_label": "25 Sep 2026 · 06:09 UTC",
+    "generated_at": "2026-09-25T17:57:30.353955+00:00",
+    "generated_label": "25 Sep 2026 · 17:57 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.61
   },
   "weather": {
-    "air_temperature": 23.2,
-    "wind_speed": 41.0,
+    "air_temperature": 21.7,
+    "wind_speed": 34.6,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
