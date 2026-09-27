@@ -1,10 +1,10 @@
 {
   "meta": {
-    "event": "Azerbaijan Grand Prix",
+    "event": "Malaysia Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-09-26T21:57:44.343126+00:00",
-    "generated_label": "26 Sep 2026 · 21:57 UTC",
+    "generated_at": "2026-09-27T06:36:20.434294+00:00",
+    "generated_label": "27 Sep 2026 · 06:36 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,17 +12,17 @@
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "Baku City Circuit",
-    "country": "Azerbaijan",
-    "latitude": 40.3725,
-    "longitude": 49.8533,
-    "laps": 51,
-    "safety_car_prior": 0.61
+    "name": "Sepang International Circuit",
+    "country": "Malaysia",
+    "latitude": 2.7608,
+    "longitude": 101.738,
+    "laps": 56,
+    "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 20.1,
-    "wind_speed": 10.2,
-    "rain_probability": 0.0,
+    "air_temperature": 29.9,
+    "wind_speed": 5.3,
+    "rain_probability": 100.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          38.5,
-          37.75,
-          38.425
+          33.625,
+          33.45,
+          33.75
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          33.75,
-          33.675,
-          34.375
+          30.55,
+          30.975,
+          30.425
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          11.875,
-          12.1,
-          11.675
+          12.725,
+          12.425,
+          12.4
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          4.65,
-          5.375,
-          4.775
+          6.875,
+          8.025,
+          7.325
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          5.35,
-          5.025,
-          4.75
+          7.45,
+          6.9,
+          7.125
         ]
       }
     ]
