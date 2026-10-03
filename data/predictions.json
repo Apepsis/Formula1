@@ -3,8 +3,8 @@
     "event": "Malaysia Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-03T17:16:09.851107+00:00",
-    "generated_label": "03 Oct 2026 · 17:16 UTC",
+    "generated_at": "2026-10-03T22:07:38.084653+00:00",
+    "generated_label": "03 Oct 2026 · 22:07 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@
     "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 24.9,
-    "wind_speed": 4.5,
+    "air_temperature": 24.6,
+    "wind_speed": 2.1,
     "rain_probability": 96.0,
     "current_rain": 0.0
   },
