@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Malaysia Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-03T22:07:38.084653+00:00",
-    "generated_label": "03 Oct 2026 · 22:07 UTC",
+    "generated_at": "2026-10-04T06:49:50.815230+00:00",
+    "generated_label": "04 Oct 2026 · 06:49 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,10 +20,10 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.42
   },
   "weather": {
-    "air_temperature": 24.6,
-    "wind_speed": 2.1,
-    "rain_probability": 96.0,
-    "current_rain": 0.0
+    "air_temperature": 27.0,
+    "wind_speed": 7.2,
+    "rain_probability": 94.0,
+    "current_rain": 0.1
   },
   "history": {
     "phases": [
@@ -36,9 +36,9 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          33.9,
-          33.6,
-          34.1
+          33.95,
+          33.7,
+          34.15
         ]
       },
       {
@@ -46,16 +46,16 @@ window.RACETWIN_DATA = {
         "color": "#ff6b57",
         "values": [
           30.675,
-          31.075,
-          30.65
+          31.225,
+          30.775
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.7,
-          12.475,
+          12.675,
+          12.425,
           12.475
         ]
       },
@@ -63,18 +63,18 @@ window.RACETWIN_DATA = {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          6.775,
-          7.925,
-          7.175
+          6.725,
+          7.875,
+          7.1
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          7.375,
-          6.825,
-          6.9
+          7.35,
+          6.775,
+          6.875
         ]
       }
     ]
