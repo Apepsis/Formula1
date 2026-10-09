@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Singapore Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-09T07:23:09.021195+00:00",
-    "generated_label": "09 Oct 2026 · 07:23 UTC",
+    "generated_at": "2026-10-09T18:48:51.624850+00:00",
+    "generated_label": "09 Oct 2026 · 18:48 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.7
   },
   "weather": {
-    "air_temperature": 32.9,
-    "wind_speed": 7.2,
-    "rain_probability": 76.0,
+    "air_temperature": 26.8,
+    "wind_speed": 2.9,
+    "rain_probability": 98.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          37.825,
-          37.625,
-          38.025
+          36.55,
+          36.175,
+          36.95
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          28.75,
-          28.875,
-          28.8
+          27.975,
+          28.375,
+          28.2
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.675,
           12.9,
-          12.75
+          13.1,
+          12.775
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          6.0,
-          6.725,
-          6.225
+          6.55,
+          7.175,
+          6.775
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
-          6.675,
-          6.3,
-          6.5
+          6.975,
+          6.575,
+          6.8
         ]
       }
     ]
