@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Singapore Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-09T18:48:51.624850+00:00",
-    "generated_label": "09 Oct 2026 · 18:48 UTC",
+    "generated_at": "2026-10-09T23:15:49.475706+00:00",
+    "generated_label": "09 Oct 2026 · 23:15 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,10 +20,10 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.7
   },
   "weather": {
-    "air_temperature": 26.8,
-    "wind_speed": 2.9,
+    "air_temperature": 24.8,
+    "wind_speed": 1.4,
     "rain_probability": 98.0,
-    "current_rain": 0.0
+    "current_rain": 0.1
   },
   "history": {
     "phases": [
