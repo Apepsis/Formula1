@@ -1,10 +1,10 @@
 window.RACETWIN_DATA = {
   "meta": {
-    "event": "Malaysia Grand Prix",
+    "event": "Singapore Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-04T22:20:14.383873+00:00",
-    "generated_label": "04 Oct 2026 · 22:20 UTC",
+    "generated_at": "2026-10-09T07:23:09.021195+00:00",
+    "generated_label": "09 Oct 2026 · 07:23 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,17 +12,17 @@ window.RACETWIN_DATA = {
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "Sepang International Circuit",
-    "country": "Malaysia",
-    "latitude": 2.7608,
-    "longitude": 101.738,
-    "laps": 56,
-    "safety_car_prior": 0.42
+    "name": "Marina Bay Street Circuit",
+    "country": "Singapore",
+    "latitude": 1.2914,
+    "longitude": 103.864,
+    "laps": 62,
+    "safety_car_prior": 0.7
   },
   "weather": {
-    "air_temperature": 23.6,
-    "wind_speed": 2.3,
-    "rain_probability": 83.0,
+    "air_temperature": 32.9,
+    "wind_speed": 7.2,
+    "rain_probability": 76.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          40.15,
-          39.8,
-          40.325
+          37.825,
+          37.625,
+          38.025
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          29.875,
-          30.325,
-          30.0
+          28.75,
+          28.875,
+          28.8
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.7,
-          12.475,
-          12.275
+          12.675,
+          12.9,
+          12.75
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          5.15,
-          5.925,
-          5.25
+          6.0,
+          6.725,
+          6.225
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
-          5.65,
-          5.575,
-          5.95
+          6.675,
+          6.3,
+          6.5
         ]
       }
     ]
