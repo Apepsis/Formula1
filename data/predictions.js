@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Singapore Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-10T22:30:55.504784+00:00",
-    "generated_label": "10 Oct 2026 · 22:30 UTC",
+    "generated_at": "2026-10-11T07:11:45.324297+00:00",
+    "generated_label": "11 Oct 2026 · 07:11 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.7
   },
   "weather": {
-    "air_temperature": 26.3,
-    "wind_speed": 3.2,
+    "air_temperature": 29.8,
+    "wind_speed": 5.0,
     "rain_probability": 100.0,
     "current_rain": 0.0
   },
@@ -36,45 +36,45 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          36.475,
-          36.0,
-          36.925
+          45.725,
+          46.725,
+          46.4
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          27.975,
-          28.425,
-          28.2
+          21.1,
+          20.525,
+          20.3
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.875,
-          13.125,
-          12.775
+          12.45,
+          12.6,
+          12.6
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          6.55,
-          7.175,
-          6.825
+          5.875,
+          6.7,
+          6.5
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
-          6.975,
-          6.6,
-          6.75
+          5.875,
+          5.25,
+          5.5
         ]
       }
     ]
@@ -92,17 +92,17 @@ window.RACETWIN_DATA = {
           "color": "#55ddd1",
           "wet_skill": 0.16,
           "grid": 1,
-          "strength": 0.86883,
-          "pace_delta": 0.106,
+          "strength": 0.90361,
+          "pace_delta": 0.102,
           "dnf_risk": 0.052,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.74",
+              "form +0.73",
               "team +1.00",
               "grid P1",
-              "ML finish 1.6"
+              "ML finish 1.0"
             ]
           }
         },
@@ -113,7 +113,7 @@ window.RACETWIN_DATA = {
           "color": "#23d2c3",
           "wet_skill": 0.12,
           "grid": 2,
-          "strength": 0.70032,
+          "strength": 0.67272,
           "pace_delta": 0.198,
           "dnf_risk": 0.052,
           "explanation": {
@@ -134,14 +134,14 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.84028,
-          "pace_delta": 0.038,
+          "strength": 0.76091,
+          "pace_delta": 0.042,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.60",
+              "form +0.61",
               "team +0.91",
               "grid P3",
               "ML finish 1.4"
@@ -155,14 +155,14 @@ window.RACETWIN_DATA = {
           "color": "#ff4646",
           "wet_skill": 0.22,
           "grid": 4,
-          "strength": 0.60767,
-          "pace_delta": 0.064,
+          "strength": 0.57636,
+          "pace_delta": 0.068,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.67",
+              "form +0.68",
               "team +0.91",
               "grid P4",
               "ML finish 3.7"
@@ -176,17 +176,17 @@ window.RACETWIN_DATA = {
           "color": "#ff9345",
           "wet_skill": 0.18,
           "grid": 5,
-          "strength": 0.58172,
-          "pace_delta": 0.025,
+          "strength": 0.54832,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.58",
               "team +0.86",
               "grid P5",
-              "ML finish 3.5"
+              "ML finish 3.4"
             ]
           }
         },
@@ -197,17 +197,17 @@ window.RACETWIN_DATA = {
           "color": "#ffb153",
           "wet_skill": 0.1,
           "grid": 6,
-          "strength": 0.64591,
-          "pace_delta": -0.041,
+          "strength": 0.59694,
+          "pace_delta": -0.043,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.40",
+              "form +0.39",
               "team +0.86",
               "grid P6",
-              "ML finish 2.1"
+              "ML finish 1.9"
             ]
           }
         },
@@ -218,14 +218,14 @@ window.RACETWIN_DATA = {
           "color": "#4b77ff",
           "wet_skill": 0.25,
           "grid": 7,
-          "strength": 0.50841,
-          "pace_delta": 0.017,
+          "strength": 0.48832,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.60",
               "team +0.82",
               "grid P7",
               "ML finish 4.9"
@@ -239,8 +239,8 @@ window.RACETWIN_DATA = {
           "color": "#6f8cff",
           "wet_skill": 0.08,
           "grid": 8,
-          "strength": 0.386,
-          "pace_delta": -0.084,
+          "strength": 0.36941,
+          "pace_delta": -0.086,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -249,7 +249,7 @@ window.RACETWIN_DATA = {
               "form +0.30",
               "team +0.82",
               "grid P8",
-              "ML finish 5.6"
+              "ML finish 5.3"
             ]
           }
         },
@@ -260,14 +260,14 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.24738,
-          "pace_delta": -0.156,
+          "strength": 0.24122,
+          "pace_delta": -0.153,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.20",
+              "form +0.21",
               "team +0.63",
               "grid P9",
               "ML finish 9.2"
@@ -281,8 +281,8 @@ window.RACETWIN_DATA = {
           "color": "#95a2ff",
           "wet_skill": 0.05,
           "grid": 10,
-          "strength": 0.18663,
-          "pace_delta": -0.185,
+          "strength": 0.18229,
+          "pace_delta": -0.186,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -302,8 +302,8 @@ window.RACETWIN_DATA = {
           "color": "#3ec5ff",
           "wet_skill": 0.14,
           "grid": 11,
-          "strength": 0.19692,
-          "pace_delta": -0.186,
+          "strength": 0.19052,
+          "pace_delta": -0.187,
           "dnf_risk": 0.089,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -323,7 +323,7 @@ window.RACETWIN_DATA = {
           "color": "#5ed2ff",
           "wet_skill": 0.08,
           "grid": 12,
-          "strength": 0.18132,
+          "strength": 0.1752,
           "pace_delta": -0.202,
           "dnf_risk": 0.089,
           "explanation": {
@@ -344,7 +344,7 @@ window.RACETWIN_DATA = {
           "color": "#c7cbd0",
           "wet_skill": 0.1,
           "grid": 13,
-          "strength": 0.12326,
+          "strength": 0.12119,
           "pace_delta": -0.239,
           "dnf_risk": 0.0966,
           "explanation": {
@@ -365,14 +365,14 @@ window.RACETWIN_DATA = {
           "color": "#e2e5e8",
           "wet_skill": 0.07,
           "grid": 14,
-          "strength": 0.13738,
-          "pace_delta": -0.225,
+          "strength": 0.13837,
+          "pace_delta": -0.222,
           "dnf_risk": 0.0966,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.06",
+              "form +0.07",
               "team +0.53",
               "grid P14",
               "ML finish 14.2"
@@ -386,14 +386,14 @@ window.RACETWIN_DATA = {
           "color": "#b5e538",
           "wet_skill": 0.13,
           "grid": 15,
-          "strength": 0.11146,
-          "pace_delta": -0.249,
+          "strength": 0.11191,
+          "pace_delta": -0.247,
           "dnf_risk": 0.1014,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.02",
+              "form +0.03",
               "team +0.48",
               "grid P15",
               "ML finish 14.5"
@@ -407,7 +407,7 @@ window.RACETWIN_DATA = {
           "color": "#c9f253",
           "wet_skill": 0.06,
           "grid": 16,
-          "strength": 0.11476,
+          "strength": 0.11299,
           "pace_delta": -0.246,
           "dnf_risk": 0.1014,
           "explanation": {
@@ -428,7 +428,7 @@ window.RACETWIN_DATA = {
           "color": "#4ca4ff",
           "wet_skill": 0.16,
           "grid": 17,
-          "strength": 0.121,
+          "strength": 0.11862,
           "pace_delta": -0.243,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -449,7 +449,7 @@ window.RACETWIN_DATA = {
           "color": "#6db8ff",
           "wet_skill": 0.11,
           "grid": 18,
-          "strength": 0.11354,
+          "strength": 0.11216,
           "pace_delta": -0.246,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -470,7 +470,7 @@ window.RACETWIN_DATA = {
           "color": "#24b39b",
           "wet_skill": 0.23,
           "grid": 19,
-          "strength": 0.09993,
+          "strength": 0.0996,
           "pace_delta": -0.253,
           "dnf_risk": 0.1033,
           "explanation": {
@@ -512,7 +512,7 @@ window.RACETWIN_DATA = {
           "color": "#9ba3ad",
           "wet_skill": 0.13,
           "grid": 21,
-          "strength": 0.08232,
+          "strength": 0.08174,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
@@ -533,7 +533,7 @@ window.RACETWIN_DATA = {
           "color": "#b4bbc3",
           "wet_skill": 0.11,
           "grid": 22,
-          "strength": 0.08232,
+          "strength": 0.08174,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
@@ -561,17 +561,17 @@ window.RACETWIN_DATA = {
           "color": "#55ddd1",
           "wet_skill": 0.16,
           "grid": 1,
-          "strength": 0.89383,
-          "pace_delta": 0.106,
+          "strength": 0.92861,
+          "pace_delta": 0.102,
           "dnf_risk": 0.052,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.74",
+              "form +0.73",
               "team +1.00",
               "grid P1",
-              "ML finish 1.6"
+              "ML finish 1.0"
             ]
           }
         },
@@ -582,7 +582,7 @@ window.RACETWIN_DATA = {
           "color": "#23d2c3",
           "wet_skill": 0.12,
           "grid": 2,
-          "strength": 0.72449,
+          "strength": 0.69689,
           "pace_delta": 0.198,
           "dnf_risk": 0.052,
           "explanation": {
@@ -603,14 +603,14 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.86361,
-          "pace_delta": 0.038,
+          "strength": 0.78424,
+          "pace_delta": 0.042,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.60",
+              "form +0.61",
               "team +0.91",
               "grid P3",
               "ML finish 1.4"
@@ -624,14 +624,14 @@ window.RACETWIN_DATA = {
           "color": "#ff4646",
           "wet_skill": 0.22,
           "grid": 4,
-          "strength": 0.63017,
-          "pace_delta": 0.064,
+          "strength": 0.59886,
+          "pace_delta": 0.068,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.67",
+              "form +0.68",
               "team +0.91",
               "grid P4",
               "ML finish 3.7"
@@ -645,17 +645,17 @@ window.RACETWIN_DATA = {
           "color": "#ff9345",
           "wet_skill": 0.18,
           "grid": 5,
-          "strength": 0.60339,
-          "pace_delta": 0.025,
+          "strength": 0.56999,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.58",
               "team +0.86",
               "grid P5",
-              "ML finish 3.5"
+              "ML finish 3.4"
             ]
           }
         },
@@ -666,17 +666,17 @@ window.RACETWIN_DATA = {
           "color": "#ffb153",
           "wet_skill": 0.1,
           "grid": 6,
-          "strength": 0.66674,
-          "pace_delta": -0.041,
+          "strength": 0.61777,
+          "pace_delta": -0.043,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.40",
+              "form +0.39",
               "team +0.86",
               "grid P6",
-              "ML finish 2.1"
+              "ML finish 1.9"
             ]
           }
         },
@@ -687,14 +687,14 @@ window.RACETWIN_DATA = {
           "color": "#4b77ff",
           "wet_skill": 0.25,
           "grid": 7,
-          "strength": 0.52841,
-          "pace_delta": 0.017,
+          "strength": 0.50832,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.60",
               "team +0.82",
               "grid P7",
               "ML finish 4.9"
@@ -708,8 +708,8 @@ window.RACETWIN_DATA = {
           "color": "#6f8cff",
           "wet_skill": 0.08,
           "grid": 8,
-          "strength": 0.40517,
-          "pace_delta": -0.084,
+          "strength": 0.38858,
+          "pace_delta": -0.086,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -718,7 +718,7 @@ window.RACETWIN_DATA = {
               "form +0.30",
               "team +0.82",
               "grid P8",
-              "ML finish 5.6"
+              "ML finish 5.3"
             ]
           }
         },
@@ -729,14 +729,14 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.26571,
-          "pace_delta": -0.156,
+          "strength": 0.25955,
+          "pace_delta": -0.153,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.20",
+              "form +0.21",
               "team +0.63",
               "grid P9",
               "ML finish 9.2"
@@ -750,8 +750,8 @@ window.RACETWIN_DATA = {
           "color": "#95a2ff",
           "wet_skill": 0.05,
           "grid": 10,
-          "strength": 0.20413,
-          "pace_delta": -0.185,
+          "strength": 0.19979,
+          "pace_delta": -0.186,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -771,8 +771,8 @@ window.RACETWIN_DATA = {
           "color": "#3ec5ff",
           "wet_skill": 0.14,
           "grid": 11,
-          "strength": 0.21359,
-          "pace_delta": -0.186,
+          "strength": 0.20719,
+          "pace_delta": -0.187,
           "dnf_risk": 0.089,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -792,7 +792,7 @@ window.RACETWIN_DATA = {
           "color": "#5ed2ff",
           "wet_skill": 0.08,
           "grid": 12,
-          "strength": 0.19715,
+          "strength": 0.19103,
           "pace_delta": -0.202,
           "dnf_risk": 0.089,
           "explanation": {
@@ -813,7 +813,7 @@ window.RACETWIN_DATA = {
           "color": "#c7cbd0",
           "wet_skill": 0.1,
           "grid": 13,
-          "strength": 0.13826,
+          "strength": 0.13619,
           "pace_delta": -0.239,
           "dnf_risk": 0.0966,
           "explanation": {
@@ -834,14 +834,14 @@ window.RACETWIN_DATA = {
           "color": "#e2e5e8",
           "wet_skill": 0.07,
           "grid": 14,
-          "strength": 0.15155,
-          "pace_delta": -0.225,
+          "strength": 0.15254,
+          "pace_delta": -0.222,
           "dnf_risk": 0.0966,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.06",
+              "form +0.07",
               "team +0.53",
               "grid P14",
               "ML finish 14.2"
@@ -855,14 +855,14 @@ window.RACETWIN_DATA = {
           "color": "#b5e538",
           "wet_skill": 0.13,
           "grid": 15,
-          "strength": 0.12479,
-          "pace_delta": -0.249,
+          "strength": 0.12524,
+          "pace_delta": -0.247,
           "dnf_risk": 0.1014,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.02",
+              "form +0.03",
               "team +0.48",
               "grid P15",
               "ML finish 14.5"
@@ -876,7 +876,7 @@ window.RACETWIN_DATA = {
           "color": "#c9f253",
           "wet_skill": 0.06,
           "grid": 16,
-          "strength": 0.12726,
+          "strength": 0.12549,
           "pace_delta": -0.246,
           "dnf_risk": 0.1014,
           "explanation": {
@@ -897,7 +897,7 @@ window.RACETWIN_DATA = {
           "color": "#4ca4ff",
           "wet_skill": 0.16,
           "grid": 17,
-          "strength": 0.13267,
+          "strength": 0.13029,
           "pace_delta": -0.243,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -918,7 +918,7 @@ window.RACETWIN_DATA = {
           "color": "#6db8ff",
           "wet_skill": 0.11,
           "grid": 18,
-          "strength": 0.12437,
+          "strength": 0.12299,
           "pace_delta": -0.246,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -939,7 +939,7 @@ window.RACETWIN_DATA = {
           "color": "#24b39b",
           "wet_skill": 0.23,
           "grid": 19,
-          "strength": 0.10993,
+          "strength": 0.1096,
           "pace_delta": -0.253,
           "dnf_risk": 0.1033,
           "explanation": {
@@ -981,7 +981,7 @@ window.RACETWIN_DATA = {
           "color": "#9ba3ad",
           "wet_skill": 0.13,
           "grid": 21,
-          "strength": 0.09065,
+          "strength": 0.09007,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
@@ -1002,7 +1002,7 @@ window.RACETWIN_DATA = {
           "color": "#b4bbc3",
           "wet_skill": 0.11,
           "grid": 22,
-          "strength": 0.08982,
+          "strength": 0.08924,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
@@ -1030,17 +1030,17 @@ window.RACETWIN_DATA = {
           "color": "#55ddd1",
           "wet_skill": 0.16,
           "grid": 1,
-          "strength": 0.91383,
-          "pace_delta": 0.106,
+          "strength": 0.94861,
+          "pace_delta": 0.102,
           "dnf_risk": 0.052,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.74",
+              "form +0.73",
               "team +1.00",
               "grid P1",
-              "ML finish 1.6"
+              "ML finish 1.0"
             ]
           }
         },
@@ -1051,7 +1051,7 @@ window.RACETWIN_DATA = {
           "color": "#23d2c3",
           "wet_skill": 0.12,
           "grid": 2,
-          "strength": 0.74382,
+          "strength": 0.71622,
           "pace_delta": 0.198,
           "dnf_risk": 0.052,
           "explanation": {
@@ -1072,14 +1072,14 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.88228,
-          "pace_delta": 0.038,
+          "strength": 0.80291,
+          "pace_delta": 0.042,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.60",
+              "form +0.61",
               "team +0.91",
               "grid P3",
               "ML finish 1.4"
@@ -1093,14 +1093,14 @@ window.RACETWIN_DATA = {
           "color": "#ff4646",
           "wet_skill": 0.22,
           "grid": 4,
-          "strength": 0.64817,
-          "pace_delta": 0.064,
+          "strength": 0.61686,
+          "pace_delta": 0.068,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.67",
+              "form +0.68",
               "team +0.91",
               "grid P4",
               "ML finish 3.7"
@@ -1114,17 +1114,17 @@ window.RACETWIN_DATA = {
           "color": "#ff9345",
           "wet_skill": 0.18,
           "grid": 5,
-          "strength": 0.62072,
-          "pace_delta": 0.025,
+          "strength": 0.58732,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.58",
               "team +0.86",
               "grid P5",
-              "ML finish 3.5"
+              "ML finish 3.4"
             ]
           }
         },
@@ -1135,17 +1135,17 @@ window.RACETWIN_DATA = {
           "color": "#ffb153",
           "wet_skill": 0.1,
           "grid": 6,
-          "strength": 0.68341,
-          "pace_delta": -0.041,
+          "strength": 0.63444,
+          "pace_delta": -0.043,
           "dnf_risk": 0.0653,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.40",
+              "form +0.39",
               "team +0.86",
               "grid P6",
-              "ML finish 2.1"
+              "ML finish 1.9"
             ]
           }
         },
@@ -1156,14 +1156,14 @@ window.RACETWIN_DATA = {
           "color": "#4b77ff",
           "wet_skill": 0.25,
           "grid": 7,
-          "strength": 0.54441,
-          "pace_delta": 0.017,
+          "strength": 0.52432,
+          "pace_delta": 0.023,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.59",
+              "form +0.60",
               "team +0.82",
               "grid P7",
               "ML finish 4.9"
@@ -1177,8 +1177,8 @@ window.RACETWIN_DATA = {
           "color": "#6f8cff",
           "wet_skill": 0.08,
           "grid": 8,
-          "strength": 0.4205,
-          "pace_delta": -0.084,
+          "strength": 0.40391,
+          "pace_delta": -0.086,
           "dnf_risk": 0.0691,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -1187,7 +1187,7 @@ window.RACETWIN_DATA = {
               "form +0.30",
               "team +0.82",
               "grid P8",
-              "ML finish 5.6"
+              "ML finish 5.3"
             ]
           }
         },
@@ -1198,14 +1198,14 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.28038,
-          "pace_delta": -0.156,
+          "strength": 0.27422,
+          "pace_delta": -0.153,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.20",
+              "form +0.21",
               "team +0.63",
               "grid P9",
               "ML finish 9.2"
@@ -1219,8 +1219,8 @@ window.RACETWIN_DATA = {
           "color": "#95a2ff",
           "wet_skill": 0.05,
           "grid": 10,
-          "strength": 0.21813,
-          "pace_delta": -0.185,
+          "strength": 0.21379,
+          "pace_delta": -0.186,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -1240,8 +1240,8 @@ window.RACETWIN_DATA = {
           "color": "#3ec5ff",
           "wet_skill": 0.14,
           "grid": 11,
-          "strength": 0.22692,
-          "pace_delta": -0.186,
+          "strength": 0.22052,
+          "pace_delta": -0.187,
           "dnf_risk": 0.089,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -1261,7 +1261,7 @@ window.RACETWIN_DATA = {
           "color": "#5ed2ff",
           "wet_skill": 0.08,
           "grid": 12,
-          "strength": 0.20982,
+          "strength": 0.2037,
           "pace_delta": -0.202,
           "dnf_risk": 0.089,
           "explanation": {
@@ -1282,7 +1282,7 @@ window.RACETWIN_DATA = {
           "color": "#c7cbd0",
           "wet_skill": 0.1,
           "grid": 13,
-          "strength": 0.15026,
+          "strength": 0.14819,
           "pace_delta": -0.239,
           "dnf_risk": 0.0966,
           "explanation": {
@@ -1303,14 +1303,14 @@ window.RACETWIN_DATA = {
           "color": "#e2e5e8",
           "wet_skill": 0.07,
           "grid": 14,
-          "strength": 0.16288,
-          "pace_delta": -0.225,
+          "strength": 0.16387,
+          "pace_delta": -0.222,
           "dnf_risk": 0.0966,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.06",
+              "form +0.07",
               "team +0.53",
               "grid P14",
               "ML finish 14.2"
@@ -1324,14 +1324,14 @@ window.RACETWIN_DATA = {
           "color": "#b5e538",
           "wet_skill": 0.13,
           "grid": 15,
-          "strength": 0.13546,
-          "pace_delta": -0.249,
+          "strength": 0.13591,
+          "pace_delta": -0.247,
           "dnf_risk": 0.1014,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.02",
+              "form +0.03",
               "team +0.48",
               "grid P15",
               "ML finish 14.5"
@@ -1345,7 +1345,7 @@ window.RACETWIN_DATA = {
           "color": "#c9f253",
           "wet_skill": 0.06,
           "grid": 16,
-          "strength": 0.13726,
+          "strength": 0.13549,
           "pace_delta": -0.246,
           "dnf_risk": 0.1014,
           "explanation": {
@@ -1366,7 +1366,7 @@ window.RACETWIN_DATA = {
           "color": "#4ca4ff",
           "wet_skill": 0.16,
           "grid": 17,
-          "strength": 0.142,
+          "strength": 0.13962,
           "pace_delta": -0.243,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -1387,7 +1387,7 @@ window.RACETWIN_DATA = {
           "color": "#6db8ff",
           "wet_skill": 0.11,
           "grid": 18,
-          "strength": 0.13304,
+          "strength": 0.13166,
           "pace_delta": -0.246,
           "dnf_risk": 0.0985,
           "explanation": {
@@ -1408,7 +1408,7 @@ window.RACETWIN_DATA = {
           "color": "#24b39b",
           "wet_skill": 0.23,
           "grid": 19,
-          "strength": 0.11793,
+          "strength": 0.1176,
           "pace_delta": -0.253,
           "dnf_risk": 0.1033,
           "explanation": {
@@ -1450,7 +1450,7 @@ window.RACETWIN_DATA = {
           "color": "#9ba3ad",
           "wet_skill": 0.13,
           "grid": 21,
-          "strength": 0.09732,
+          "strength": 0.09674,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
@@ -1471,7 +1471,7 @@ window.RACETWIN_DATA = {
           "color": "#b4bbc3",
           "wet_skill": 0.11,
           "grid": 22,
-          "strength": 0.09582,
+          "strength": 0.09524,
           "pace_delta": -0.273,
           "dnf_risk": 0.109,
           "explanation": {
