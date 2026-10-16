@@ -3,8 +3,8 @@
     "event": "United States Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-16T05:51:48.500314+00:00",
-    "generated_label": "16 Oct 2026 · 05:51 UTC",
+    "generated_at": "2026-10-16T17:23:31.793589+00:00",
+    "generated_label": "16 Oct 2026 · 17:23 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@
     "safety_car_prior": 0.4
   },
   "weather": {
-    "air_temperature": 23.5,
-    "wind_speed": 8.1,
-    "rain_probability": 33.0,
+    "air_temperature": 20.9,
+    "wind_speed": 44.2,
+    "rain_probability": 18.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          72.15,
-          73.925,
-          72.75
+          75.075,
+          76.425,
+          74.925
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          12.05,
-          10.475,
-          11.3
+          11.025,
+          9.975,
+          10.775
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          9.1,
-          8.725,
-          8.825
+          8.675,
+          7.725,
+          8.425
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          2.5,
-          3.125,
-          2.975
+          2.05,
+          2.75,
+          2.425
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          1.825,
-          1.675,
-          1.725
+          1.375,
+          1.425,
+          1.375
         ]
       }
     ]
