@@ -3,8 +3,8 @@
     "event": "United States Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-18T05:53:22.702472+00:00",
-    "generated_label": "18 Oct 2026 · 05:53 UTC",
+    "generated_at": "2026-10-18T16:31:52.956436+00:00",
+    "generated_label": "18 Oct 2026 · 16:31 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@
     "safety_car_prior": 0.4
   },
   "weather": {
-    "air_temperature": 11.8,
-    "wind_speed": 6.1,
+    "air_temperature": 18.9,
+    "wind_speed": 8.6,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
