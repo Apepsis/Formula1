@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "United States Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-23T22:09:46.188420+00:00",
-    "generated_label": "23 Oct 2026 · 22:09 UTC",
+    "generated_at": "2026-10-24T05:52:00.506213+00:00",
+    "generated_label": "24 Oct 2026 · 05:52 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.4
   },
   "weather": {
-    "air_temperature": 28.2,
-    "wind_speed": 17.6,
-    "rain_probability": 0.0,
+    "air_temperature": 18.8,
+    "wind_speed": 11.8,
+    "rain_probability": 1.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,27 +36,27 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          78.275,
-          79.425,
-          78.125
+          78.125,
+          79.3,
+          78.0
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          9.95,
-          9.1,
-          9.825
+          10.0,
+          9.125,
+          9.85
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          7.9,
+          7.95,
           7.15,
-          7.625
+          7.675
         ]
       },
       {
@@ -64,16 +64,16 @@ window.RACETWIN_DATA = {
         "color": "#ff4646",
         "values": [
           1.525,
-          2.075,
-          1.9
+          2.125,
+          1.925
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          1.025,
-          1.15,
+          1.075,
+          1.175,
           1.05
         ]
       }
