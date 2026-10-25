@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "United States Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-25T06:07:01.007748+00:00",
-    "generated_label": "25 Oct 2026 · 06:07 UTC",
+    "generated_at": "2026-10-25T17:03:29.188142+00:00",
+    "generated_label": "25 Oct 2026 · 17:03 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.4
   },
   "weather": {
-    "air_temperature": 20.5,
-    "wind_speed": 11.1,
+    "air_temperature": 25.4,
+    "wind_speed": 13.4,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
