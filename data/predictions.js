@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Mexico City Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-10-30T18:37:12.205409+00:00",
-    "generated_label": "30 Oct 2026 · 18:37 UTC",
+    "generated_at": "2026-10-30T22:58:03.233429+00:00",
+    "generated_label": "30 Oct 2026 · 22:58 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -21,7 +21,7 @@ window.RACETWIN_DATA = {
   },
   "weather": {
     "air_temperature": 25.1,
-    "wind_speed": 3.2,
+    "wind_speed": 8.0,
     "rain_probability": 16.0,
     "current_rain": 0.0
   },
