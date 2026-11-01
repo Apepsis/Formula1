@@ -3,8 +3,8 @@
     "event": "Mexico City Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-01T07:30:46.874662+00:00",
-    "generated_label": "01 Nov 2026 · 07:30 UTC",
+    "generated_at": "2026-11-01T18:25:27.109135+00:00",
+    "generated_label": "01 Nov 2026 · 18:25 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@
     "safety_car_prior": 0.45
   },
   "weather": {
-    "air_temperature": 14.9,
-    "wind_speed": 7.7,
-    "rain_probability": 0.0,
+    "air_temperature": 23.8,
+    "wind_speed": 2.4,
+    "rain_probability": 2.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,18 +36,18 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          57.35,
-          58.125,
-          58.275
+          57.175,
+          57.75,
+          58.05
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          26.975,
-          26.425,
-          26.6
+          26.95,
+          26.475,
+          26.55
         ]
       },
       {
@@ -55,26 +55,26 @@
         "color": "#23d2c3",
         "values": [
           8.725,
-          8.575,
-          8.15
+          8.675,
+          8.25
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          2.975,
-          3.225,
-          2.85
+          3.025,
+          3.3,
+          2.95
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
+          1.825,
           1.775,
-          1.675,
-          2.1
+          2.075
         ]
       }
     ]
