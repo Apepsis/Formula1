@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "São Paulo Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-06T19:57:03.972315+00:00",
-    "generated_label": "06 Nov 2026 · 19:57 UTC",
+    "generated_at": "2026-11-07T07:08:57.428152+00:00",
+    "generated_label": "07 Nov 2026 · 07:08 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.56
   },
   "weather": {
-    "air_temperature": 22.0,
-    "wind_speed": 10.3,
-    "rain_probability": 100.0,
+    "air_temperature": 19.1,
+    "wind_speed": 6.0,
+    "rain_probability": 77.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,45 +36,45 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          45.3,
-          45.5,
-          45.7
+          47.625,
+          47.775,
+          48.125
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          23.55,
-          23.1,
-          22.975
+          23.625,
+          23.15,
+          23.25
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.25,
-          12.625,
-          12.325
+          12.0,
+          12.35,
+          11.9
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          5.9,
-          6.475,
-          6.3
+          5.4,
+          5.85,
+          5.55
         ]
       },
       {
         "code": "PIA",
         "color": "#ffb153",
         "values": [
-          5.675,
           5.225,
-          5.525
+          4.9,
+          5.2
         ]
       }
     ]
