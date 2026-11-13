@@ -1,10 +1,10 @@
 window.RACETWIN_DATA = {
   "meta": {
-    "event": "São Paulo Grand Prix",
+    "event": "Las Vegas Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-08T22:53:15.899754+00:00",
-    "generated_label": "08 Nov 2026 · 22:53 UTC",
+    "generated_at": "2026-11-13T07:55:45.864350+00:00",
+    "generated_label": "13 Nov 2026 · 07:55 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,18 +12,18 @@ window.RACETWIN_DATA = {
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "Interlagos",
-    "country": "Brazil",
-    "latitude": -23.7036,
-    "longitude": -46.6997,
-    "laps": 71,
-    "safety_car_prior": 0.56
+    "name": "Las Vegas Strip Circuit",
+    "country": "United States",
+    "latitude": 36.1147,
+    "longitude": -115.1728,
+    "laps": 50,
+    "safety_car_prior": 0.48
   },
   "weather": {
-    "air_temperature": 14.9,
-    "wind_speed": 15.1,
-    "rain_probability": 100.0,
-    "current_rain": 0.1
+    "air_temperature": 14.4,
+    "wind_speed": 6.5,
+    "rain_probability": 0.0,
+    "current_rain": 0.0
   },
   "history": {
     "phases": [
@@ -36,45 +36,45 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          52.775,
-          54.0,
-          54.5
+          68.55,
+          70.375,
+          69.3
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          16.675,
-          15.8,
-          15.475
+          15.3,
+          13.9,
+          14.5
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          12.375,
-          12.325,
-          12.025
-        ]
-      },
-      {
-        "code": "HAM",
-        "color": "#ff4646",
-        "values": [
-          5.45,
-          5.825,
-          5.575
+          9.025,
+          8.675,
+          8.75
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          5.9,
-          5.375,
-          5.325
+          2.925,
+          2.4,
+          2.625
+        ]
+      },
+      {
+        "code": "HAM",
+        "color": "#ff4646",
+        "values": [
+          2.2,
+          2.7,
+          2.425
         ]
       }
     ]
@@ -134,8 +134,8 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.67119,
-          "pace_delta": 0.055,
+          "strength": 0.68977,
+          "pace_delta": 0.053,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -144,7 +144,7 @@ window.RACETWIN_DATA = {
               "form +0.64",
               "team +0.91",
               "grid P3",
-              "ML finish 1.2"
+              "ML finish 1.1"
             ]
           }
         },
@@ -260,17 +260,17 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.23706,
-          "pace_delta": -0.149,
+          "strength": 0.24453,
+          "pace_delta": -0.147,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.22",
+              "form +0.23",
               "team +0.63",
               "grid P9",
-              "ML finish 8.3"
+              "ML finish 7.7"
             ]
           }
         },
@@ -603,8 +603,8 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.69452,
-          "pace_delta": 0.055,
+          "strength": 0.7131,
+          "pace_delta": 0.053,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -613,7 +613,7 @@ window.RACETWIN_DATA = {
               "form +0.64",
               "team +0.91",
               "grid P3",
-              "ML finish 1.2"
+              "ML finish 1.1"
             ]
           }
         },
@@ -729,17 +729,17 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.25539,
-          "pace_delta": -0.149,
+          "strength": 0.26286,
+          "pace_delta": -0.147,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.22",
+              "form +0.23",
               "team +0.63",
               "grid P9",
-              "ML finish 8.3"
+              "ML finish 7.7"
             ]
           }
         },
@@ -1072,8 +1072,8 @@ window.RACETWIN_DATA = {
           "color": "#ff6b57",
           "wet_skill": 0.17,
           "grid": 3,
-          "strength": 0.71319,
-          "pace_delta": 0.055,
+          "strength": 0.73177,
+          "pace_delta": 0.053,
           "dnf_risk": 0.0605,
           "explanation": {
             "title": "Current form anchors the prior",
@@ -1082,7 +1082,7 @@ window.RACETWIN_DATA = {
               "form +0.64",
               "team +0.91",
               "grid P3",
-              "ML finish 1.2"
+              "ML finish 1.1"
             ]
           }
         },
@@ -1198,17 +1198,17 @@ window.RACETWIN_DATA = {
           "color": "#7b8dff",
           "wet_skill": 0.09,
           "grid": 9,
-          "strength": 0.27006,
-          "pace_delta": -0.149,
+          "strength": 0.27753,
+          "pace_delta": -0.147,
           "dnf_risk": 0.0872,
           "explanation": {
             "title": "Current form anchors the prior",
             "copy": "The open-data snapshot combines season form, constructor strength and starting position.",
             "features": [
-              "form +0.22",
+              "form +0.23",
               "team +0.63",
               "grid P9",
-              "ML finish 8.3"
+              "ML finish 7.7"
             ]
           }
         },
