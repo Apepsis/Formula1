@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Las Vegas Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-15T19:22:12.284491+00:00",
-    "generated_label": "15 Nov 2026 · 19:22 UTC",
+    "generated_at": "2026-11-20T08:32:09.556287+00:00",
+    "generated_label": "20 Nov 2026 · 08:32 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.48
   },
   "weather": {
-    "air_temperature": 18.4,
-    "wind_speed": 5.8,
-    "rain_probability": 0.0,
+    "air_temperature": 8.3,
+    "wind_speed": 8.3,
+    "rain_probability": 4.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,27 +36,27 @@ window.RACETWIN_DATA = {
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          68.55,
-          70.375,
-          69.3
+          67.775,
+          69.65,
+          68.65
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          15.3,
-          13.9,
-          14.5
+          15.575,
+          14.125,
+          14.675
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          9.025,
-          8.675,
-          8.75
+          9.125,
+          8.725,
+          9.025
         ]
       },
       {
@@ -64,17 +64,17 @@ window.RACETWIN_DATA = {
         "color": "#ff9345",
         "values": [
           2.925,
-          2.4,
-          2.625
+          2.575,
+          2.675
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          2.2,
-          2.7,
-          2.425
+          2.4,
+          2.875,
+          2.55
         ]
       }
     ]
