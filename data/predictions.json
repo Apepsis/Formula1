@@ -3,8 +3,8 @@
     "event": "Las Vegas Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-20T08:32:09.556287+00:00",
-    "generated_label": "20 Nov 2026 · 08:32 UTC",
+    "generated_at": "2026-11-20T21:03:58.461484+00:00",
+    "generated_label": "20 Nov 2026 · 21:03 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,9 +20,9 @@
     "safety_car_prior": 0.48
   },
   "weather": {
-    "air_temperature": 8.3,
-    "wind_speed": 8.3,
-    "rain_probability": 4.0,
+    "air_temperature": 15.6,
+    "wind_speed": 3.8,
+    "rain_probability": 6.0,
     "current_rain": 0.0
   },
   "history": {
@@ -36,36 +36,36 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          67.775,
-          69.65,
-          68.65
+          67.4,
+          69.275,
+          68.3
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          15.575,
+          15.725,
           14.125,
-          14.675
+          14.8
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          9.125,
-          8.725,
-          9.025
+          9.25,
+          8.95,
+          9.1
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          2.925,
-          2.575,
-          2.675
+          2.975,
+          2.6,
+          2.8
         ]
       },
       {
@@ -73,7 +73,7 @@
         "color": "#ff4646",
         "values": [
           2.4,
-          2.875,
+          2.975,
           2.55
         ]
       }
