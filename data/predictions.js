@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Las Vegas Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-21T08:16:04.773684+00:00",
-    "generated_label": "21 Nov 2026 · 08:16 UTC",
+    "generated_at": "2026-11-21T20:05:29.389953+00:00",
+    "generated_label": "21 Nov 2026 · 20:05 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.48
   },
   "weather": {
-    "air_temperature": 7.3,
-    "wind_speed": 9.4,
+    "air_temperature": 13.9,
+    "wind_speed": 2.1,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
