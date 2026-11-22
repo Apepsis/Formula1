@@ -1,10 +1,10 @@
 {
   "meta": {
-    "event": "Las Vegas Grand Prix",
+    "event": "Qatar Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-21T20:05:29.389953+00:00",
-    "generated_label": "21 Nov 2026 · 20:05 UTC",
+    "generated_at": "2026-11-22T07:58:58.772681+00:00",
+    "generated_label": "22 Nov 2026 · 07:58 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -12,16 +12,16 @@
     "disclaimer": "Probabilistic educational forecast. Not betting advice."
   },
   "circuit": {
-    "name": "Las Vegas Strip Circuit",
-    "country": "United States",
-    "latitude": 36.1147,
-    "longitude": -115.1728,
-    "laps": 50,
-    "safety_car_prior": 0.48
+    "name": "Lusail International Circuit",
+    "country": "Qatar",
+    "latitude": 25.49,
+    "longitude": 51.4542,
+    "laps": 57,
+    "safety_car_prior": 0.28
   },
   "weather": {
-    "air_temperature": 13.9,
-    "wind_speed": 2.1,
+    "air_temperature": 28.2,
+    "wind_speed": 8.2,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
@@ -36,45 +36,45 @@
         "code": "RUS",
         "color": "#55ddd1",
         "values": [
-          68.55,
-          70.375,
-          69.3
+          74.3,
+          75.925,
+          74.475
         ]
       },
       {
         "code": "LEC",
         "color": "#ff6b57",
         "values": [
-          15.3,
-          13.9,
-          14.5
+          13.775,
+          12.4,
+          13.275
         ]
       },
       {
         "code": "ANT",
         "color": "#23d2c3",
         "values": [
-          9.025,
-          8.675,
-          8.75
+          7.65,
+          7.25,
+          7.475
         ]
       },
       {
         "code": "NOR",
         "color": "#ff9345",
         "values": [
-          2.925,
-          2.4,
-          2.625
+          1.775,
+          1.7,
+          1.9
         ]
       },
       {
         "code": "HAM",
         "color": "#ff4646",
         "values": [
-          2.2,
-          2.7,
-          2.425
+          1.275,
+          1.75,
+          1.575
         ]
       }
     ]
