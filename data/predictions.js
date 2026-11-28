@@ -3,8 +3,8 @@ window.RACETWIN_DATA = {
     "event": "Qatar Grand Prix",
     "season": 2026,
     "phase": "qualifying",
-    "generated_at": "2026-11-28T08:54:38.883334+00:00",
-    "generated_label": "28 Nov 2026 · 08:54 UTC",
+    "generated_at": "2026-11-28T20:54:52.157070+00:00",
+    "generated_label": "28 Nov 2026 · 20:54 UTC",
     "dataset_kind": "public_snapshot",
     "source_status": "public_sources",
     "machine_learning_model": true,
@@ -20,8 +20,8 @@ window.RACETWIN_DATA = {
     "safety_car_prior": 0.28
   },
   "weather": {
-    "air_temperature": 27.3,
-    "wind_speed": 5.6,
+    "air_temperature": 21.9,
+    "wind_speed": 6.6,
     "rain_probability": 0.0,
     "current_rain": 0.0
   },
